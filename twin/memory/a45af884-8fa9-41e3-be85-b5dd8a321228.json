@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "halo"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! I'm Tommy's Digital Twin. How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "saya siapa?"
+  },
+  {
+    "role": "assistant",
+    "content": "Saya tidak bisa mengetahui siapa Anda secara langsung, tetapi saya di sini untuk membantu Anda dengan pertanyaan atau kebutuhan informasi yang Anda miliki. Apa yang bisa saya bantu untuk Anda?"
+  }
+]

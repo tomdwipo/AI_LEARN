@@ -1,0 +1,29 @@
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+.python-version
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log

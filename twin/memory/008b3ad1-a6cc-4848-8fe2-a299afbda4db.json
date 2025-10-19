@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "hai saya TOm"
+  },
+  {
+    "role": "assistant",
+    "content": "Hai, Tom! Senang bertemu denganmu. Ada yang bisa saya bantu hari ini?"
+  },
+  {
+    "role": "user",
+    "content": "saya siapa?"
+  },
+  {
+    "role": "assistant",
+    "content": "Kamu adalah Tom! Bagaimana saya bisa membantumu hari ini? Apakah ada pertanyaan atau topik yang ingin kamu diskusikan?"
+  }
+]
